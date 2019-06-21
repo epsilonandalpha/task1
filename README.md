@@ -6,5 +6,8 @@ Task1任务描述
 4. python数值基本知识：python中数值类型（int，float，bool，e记法等）、算数运算符、逻辑运算符、成员运算符、身份运算符、运算符
 
 # 学习总结
-1. Anaconda+pycharm. 直接下载pycharm，可以在里面进行python相关的环境配置。<br>
+1. Anaconda+pycharm. 直接下载pycharm和anaconda，可以在里面进行python相关的环境配置。<br>
 2. python初级代码编写
+    x = input('x=');<br>
+    y = int(x) * int(x) ;<br>
+    print('the answer is',y)<br>
