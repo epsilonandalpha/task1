@@ -48,9 +48,9 @@ Task1任务描述
 * e记法<br>
     对于很大或很小的浮点数，就必须用科学计数法表示，把10用e替代，1.23x10^9就是1.23e9，或者12.3e8，0.000012可以写成1.2e-5，等等。
 * 算术运算符<br>
-Name | Academy | score 
-- | :-: | -: 
-Harry Potter | Gryffindor| 90 
-Hermione Granger | Gryffindor | 100 
-Draco Malfoy | Slytherin | 90
+    Name | Academy | score 
+    - | :-: | -: 
+    Harry Potter | Gryffindor| 90 
+    Hermione Granger | Gryffindor | 100 
+    Draco Malfoy | Slytherin | 90
 
