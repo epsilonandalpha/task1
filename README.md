@@ -45,11 +45,12 @@ Task1任务描述
 这里整型和浮点数省略，用法基本与C相同。
 * bool<br>
     布尔值（bool）和布尔代数的表示完全一致，一个布尔值只有True、False两种值，要么是True，要么是False。在Python中，可以直接用True、False表示布尔值，也可以通过布尔运算计算出来（3>2,Ture）。其次，布尔值可以用and、or和not运算。
-* e记法<br>    
+* e记法<br>
     对于很大或很小的浮点数，就必须用科学计数法表示，把10用e替代，1.23x10^9就是1.23e9，或者12.3e8，0.000012可以写成1.2e-5，等等。
-* 算术运算符<br>  
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+* 算术运算符<br>
+Name | Academy | score 
+- | :-: | -: 
+Harry Potter | Gryffindor| 90 
+Hermione Granger | Gryffindor | 100 
+Draco Malfoy | Slytherin | 90
+
