@@ -8,6 +8,6 @@ Task1任务描述
 # 学习总结
 1. Anaconda+pycharm. 直接下载pycharm和anaconda，可以在里面进行python相关的环境配置。<br>
 2. python初级代码编写<br>
-        x = input('x=');<br>
-        y = int(x) * int(x) ;<br>
-        print('the answer is',y)<br>
+       ``` x = input('x=');
+        y = int(x) * int(x) ;
+        print('the answer is',y)```
